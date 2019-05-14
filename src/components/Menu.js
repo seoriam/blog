@@ -51,7 +51,8 @@ const Menu = () => {
         <ul>
           <li>
             <Link to="/" activeStyle={activeLinkStyle}>
-              Home
+              /* TODO: insert logo here. */
+              Seoriam Labs
             </Link>
           </li>
           <li>
