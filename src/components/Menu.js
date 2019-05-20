@@ -51,7 +51,7 @@ const Menu = () => {
         <ul>
           <li>
             <Link to="/" activeStyle={activeLinkStyle}>
-              /* TODO: insert logo here. */
+              <img src="../../static/logos/logo.svg" width="50px" height="50px"/>
               Seoriam Labs
             </Link>
           </li>
