@@ -1,3 +1,4 @@
+// How would CI/CD work when I update contentful??
 module.exports = {
   siteTitle: 'Seoriam Labs',
   siteTitleAlt: 'Seoriam AI QC ME Blog', // This allows an alternative site title for SEO schema.
