@@ -22,8 +22,8 @@ const PostTemplate = ({ data, pageContext }) => {
   } = data.contentfulPost
   const postNode = data.contentfulPost
 
-  const previous = pageContext.prev
-  const next = pageContext.next
+  const previous = pageContext.next
+  const next = pageContext.prev
 
   return (
     <Layout>
