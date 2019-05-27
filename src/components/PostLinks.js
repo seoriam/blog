@@ -27,13 +27,13 @@ const Box = styled.div`
 `
 
 const PreviousLink = styled(Link)`
-  margin-right: auto;
-  order: 1;
+  margin-left: auto;
+  order: 2;
 `
 
 const NextLink = styled(Link)`
-  margin-left: auto;
-  order: 2;
+  margin-right: auto;
+  order: 1;
 `
 
 const PostLinks = props => {
